@@ -1,1 +1,1 @@
-# Student-Database-Management-System
+# Student-Database-Management-System is designed to store, manage, and retrieve student details efficiently. It allows administrators, teachers, and authorized users to manage student records such as personal details, academic information, grades, and more in a secure and user-friendly environment.
